@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <!-- Ecosistema Espiritual FeUniversal (17 Idiomas Oficiales) -->
+  <url>
+    <loc>https://betoles.github.io/FeUniversal-privacy/</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://betoles.github.io/FeUniversal-privacy/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://betoles.github.io/FeUniversal-privacy/?lang=es"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://betoles.github.io/FeUniversal-privacy/?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://betoles.github.io/FeUniversal-privacy/?lang=fr"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://betoles.github.io/FeUniversal-privacy/?lang=pt"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://betoles.github.io/FeUniversal-privacy/?lang=it"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://betoles.github.io/FeUniversal-privacy/?lang=de"/>
+    <xhtml:link rel="alternate" hreflang="la" href="https://betoles.github.io/FeUniversal-privacy/?lang=la"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://betoles.github.io/FeUniversal-privacy/?lang=ar"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://betoles.github.io/FeUniversal-privacy/?lang=ru"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://betoles.github.io/FeUniversal-privacy/?lang=hi"/>
+    <xhtml:link rel="alternate" hreflang="bn" href="https://betoles.github.io/FeUniversal-privacy/?lang=bn"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://betoles.github.io/FeUniversal-privacy/?lang=zh"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://betoles.github.io/FeUniversal-privacy/?lang=ja"/>
+    <xhtml:link rel="alternate" hreflang="he" href="https://betoles.github.io/FeUniversal-privacy/?lang=he"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://betoles.github.io/FeUniversal-privacy/?lang=id"/>
+    <xhtml:link rel="alternate" hreflang="ur" href="https://betoles.github.io/FeUniversal-privacy/?lang=ur"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://betoles.github.io/FeUniversal-privacy/?lang=sw"/>
+  </url>
+
+  <!-- Marco Legal, Politicas de Privacidad y Terminos de Uso (17 Idiomas) -->
+  <url>
+    <loc>https://betoles.github.io/FeUniversal-privacy/privacy.html</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://betoles.github.io/FeUniversal-privacy/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://betoles.github.io/FeUniversal-privacy/privacy.html#es"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://betoles.github.io/FeUniversal-privacy/privacy.html#en"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://betoles.github.io/FeUniversal-privacy/privacy.html#fr"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://betoles.github.io/FeUniversal-privacy/privacy.html#pt"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://betoles.github.io/FeUniversal-privacy/privacy.html#it"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://betoles.github.io/FeUniversal-privacy/privacy.html#de"/>
+    <xhtml:link rel="alternate" hreflang="la" href="https://betoles.github.io/FeUniversal-privacy/privacy.html#la"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://betoles.github.io/FeUniversal-privacy/privacy.html#ar"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://betoles.github.io/FeUniversal-privacy/privacy.html#ru"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://betoles.github.io/FeUniversal-privacy/privacy.html#hi"/>
+    <xhtml:link rel="alternate" hreflang="bn" href="https://betoles.github.io/FeUniversal-privacy/privacy.html#bn"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://betoles.github.io/FeUniversal-privacy/privacy.html#zh"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://betoles.github.io/FeUniversal-privacy/privacy.html#ja"/>
+    <xhtml:link rel="alternate" hreflang="he" href="https://betoles.github.io/FeUniversal-privacy/privacy.html#he"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://betoles.github.io/FeUniversal-privacy/privacy.html#id"/>
+    <xhtml:link rel="alternate" hreflang="ur" href="https://betoles.github.io/FeUniversal-privacy/privacy.html#ur"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://betoles.github.io/FeUniversal-privacy/privacy.html#sw"/>
+  </url>
+
+</urlset>
